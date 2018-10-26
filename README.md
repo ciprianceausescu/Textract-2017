@@ -1,6 +1,7 @@
-# Sparktech-Hackathon-Textract
-Extract information from pdfs. Turn unstructured data into structured data. http://www.sparktech.ro/textract/
+# Sparktech-Hackathon-Textract-2017
+Extract information from pdfs. 
 
+Turn unstructured data into structured data. http://www.sparktech.ro/textract/
 
 Dependencies : 
 	Python 2.7.x
